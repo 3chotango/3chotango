@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @3chotango
-- 👀 I’m interested in EATING, Cycling, Music, & Coding
+- 👋 Hi, I’m Euan
+- 👀 I’m interested in Food, Cycling, Music, Coding and everything in between
 - 🌱 I’m currently learning Javascript & Python
 - 📫 How to reach me euantomi@gmail.com
 
