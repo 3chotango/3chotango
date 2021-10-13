@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Euan
-- 👀 I’m interested in Food, Cycling, Music, Coding and everything in between
+- 👀 I’m interested in Food, Cycling, Music, Coding, Travelling, Camping, Hiking and everything in between
 - 🌱 I’m currently learning Javascript & Python
 - 📫 How to reach me euantomi@gmail.com
 
